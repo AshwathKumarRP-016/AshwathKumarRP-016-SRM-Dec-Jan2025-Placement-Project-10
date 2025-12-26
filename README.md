@@ -1,6 +1,6 @@
 # 📚 **Library Book Manager**  
 
-CLICK Library Management System-> CLICK src --> CLICK main --> CLICK java -->library --> SERVLET Library.java FILE  | CLICK webapp ---> Dashboar.html -->AddBook.html--> ViewBook.jsp
+CLICK Library Management System-> CLICK src --> CLICK main --> CLICK java -->library --> SERVLET Library.java FILE  | CLICK webapp ---> Dashboard.html -->AddBook.html--> ViewBook.jsp
 
 
 ## ⚡ **What's This?**  
